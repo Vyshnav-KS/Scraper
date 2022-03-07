@@ -32,14 +32,6 @@ To deploy this project run
 
 
 
-## Screenshots
-
-![Input ](https://raw.githubusercontent.com/Vyshnav-KS/Scraper/main/images/input.png)
-![Output ](https://raw.githubusercontent.com/Vyshnav-KS/Scraper/main/images/output.png)
-
-
-
-
 ## Libraries used
 
 - Httparty
