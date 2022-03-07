@@ -39,3 +39,9 @@ To deploy this project run
 - Httparty
 - Nokogiri
 - json
+
+
+
+## Ruby Instalation Guide
+
+Read the documentation <a href = "https://www.ruby-lang.org/en/documentation/installation/" >here </a>
