@@ -9,8 +9,8 @@ A Web Scraper written in Ruby to get the details of articles in the website http
 Clone from Github
 
 ```bash
-    git clone my-project
-    cd my-project
+    git clone https://github.com/Vyshnav-KS/Scraper.git
+    cd Scraper
 ```
 
 
